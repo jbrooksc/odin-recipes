@@ -1,4 +1,7 @@
 img {
+    display: block;
+    left: auto;
+    right: auto;
     width: 600px;
     height: auto;
 }
