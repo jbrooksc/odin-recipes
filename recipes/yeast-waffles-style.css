@@ -13,3 +13,8 @@ img {
     width: 600px;
     height: auto;
 }
+
+.ImageBorder {
+    border-width: 40px;
+    border-color: black;
+}
