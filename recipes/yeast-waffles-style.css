@@ -1,3 +1,11 @@
+* {
+    background-color: indianred;
+}
+
+.header {
+    text-align: center;
+}
+
 img {
     display: block;
     left: auto;
