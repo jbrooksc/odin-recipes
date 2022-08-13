@@ -4,5 +4,11 @@
 
 .OdinRecipes {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: burlywood
+    color: burlywood;
+    text-align: center;
+}
+
+.meal {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: mistyrose;
 }
