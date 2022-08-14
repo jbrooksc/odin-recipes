@@ -15,3 +15,9 @@ img {
     border-width: 40px;
     border-color: black;
 }
+
+.ImageBorder {
+    border-width: 30px;
+    border-color: green;
+    border-style: solid;
+}
