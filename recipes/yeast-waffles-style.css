@@ -4,12 +4,26 @@
 
 .header {
     text-align: center;
+    font-family: Tahoma;
+    color: burlywood
+}
+
+h3 {
+    text-align: center;
+    font-family: Tahoma;
+    color: burlywood
+}
+
+p,
+ul,
+ol {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px
 }
 
 img {
     display: block;
-    left: auto;
-    right: auto;
+    margin: auto;
     width: 600px;
     height: auto;
 }
