@@ -1,0 +1,41 @@
+* {
+    background-color: indianred;
+}
+
+.header {
+    text-align: center;
+    font-family: Tahoma;
+    color: burlywood
+}
+
+h1 {    
+    text-align: center;
+    font-family: Tahoma;
+    color: burlywood
+}
+
+h3 {
+    text-align: center;
+    font-family: Tahoma;
+    color: burlywood
+}
+
+p,
+ul,
+ol {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: auto;
+}
+
+.ImageBorder {
+    border-width: 30px;
+    border-color: green;
+    border-style: solid;
+}
