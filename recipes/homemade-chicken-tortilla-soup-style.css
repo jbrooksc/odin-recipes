@@ -8,6 +8,12 @@
     color: burlywood
 }
 
+h1 {    
+    text-align: center;
+    font-family: Tahoma;
+    color: burlywood
+}
+
 h3 {
     text-align: center;
     font-family: Tahoma;
@@ -24,7 +30,7 @@ ol {
 img {
     display: block;
     margin: auto;
-    width: 600px;
+    width: 300px;
     height: auto;
 }
 
