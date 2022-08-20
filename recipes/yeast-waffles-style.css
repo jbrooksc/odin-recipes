@@ -32,4 +32,5 @@ img {
     border-width: 30px;
     border-color: green;
     border-style: solid;
+    border-radius: 40px;
 }
